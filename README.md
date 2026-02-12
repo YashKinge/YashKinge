@@ -18,4 +18,5 @@ I focus on building strong fundamentals and improving my coding skills.
 - React
 - Spring Boot basics
 - Problem solving
+- J2EE
 
